@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+.dokkodomain{
+    font-size: 40px;
+    /*text-align: center;*/
+}
+*{
+    font-family: 'Cinzel', serif;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-decoration: none;
+}
+.buttons {
+    font-size: 40px;
+    margin: 40px 40px;
+}
+
+/*.chess{
+    left: 100px;
+}
+.english{
+    left: 100px;
+}
+.mola{
+    left: 100px;
+}
