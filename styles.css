@@ -10,11 +10,27 @@
     border: none;
     text-decoration: none;
 }
-.buttons {
-    font-size: 40px;
-    margin: 40px 40px;
+.button1{
+    font-size: 17px;
+    margin: 2px 2px;
+    padding-top: 80px;
+    padding-right: 20px;
+    padding-left: 60px ;
 }
-
+.button2{
+    font-size: 17px;
+    margin: 2px 2px;
+    padding-top: 80px;
+    padding-right: 20px;
+    padding-left: 20px ;
+}
+.button3{
+    font-size: 17px;
+    margin: 2px 2px;
+    padding-top: 80px;
+    padding-right: 20px;
+    padding-left: 20px ;
+}
 /*.chess{
     left: 100px;
 }
