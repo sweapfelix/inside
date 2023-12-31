@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
 .dokkodomain{
-    font-size: 29px;
+    font-size: 27px;
     /*text-align: center;*/
 }
 *{
@@ -12,23 +12,19 @@
 }
 .button1{
     font-size: 17px;
-    margin: 2px 2px;
     padding-top: 80px;
     padding-right: 20px;
-    padding-left: 60px ;
+    padding-left: 50px ;
 }
 .button2{
     font-size: 17px;
-    margin: 2px 2px;
     padding-top: 80px;
     padding-right: 20px;
     padding-left: 20px ;
 }
 .button3{
     font-size: 17px;
-    margin: 2px 2px;
     padding-top: 80px;
-    padding-right: 20px;
     padding-left: 20px ;
 }
 /*.chess{
